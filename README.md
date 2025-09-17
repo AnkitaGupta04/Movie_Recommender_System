@@ -1,15 +1,15 @@
-🍿 CineMatch 🎬
+**🍿 CineMatch 🎬**
 
 A Movie Recommender System built with Streamlit & TMDB API
 
-📌 Project Overview-
+**📌 Project Overview-**
 
 CineMatch is a movie recommender web app that helps users discover movies they’ll love.
 It combines content-based recommendation (using similarity scores) with real-time movie data from The Movie Database (TMDB API).
 
 The app is built with Streamlit for a modern, interactive UI.
 
-🚀 Features-
+**🚀 Features-**
 
 🔥 Trending Movies – discover what’s popular this week
 
@@ -23,7 +23,7 @@ The app is built with Streamlit for a modern, interactive UI.
 
 🎨 Dark Mode UI – sleek, modern design
 
-🛠️ Tech Stack-
+**🛠️ Tech Stack-**
 
 Frontend/Backend: Streamlit
 
@@ -33,7 +33,7 @@ ML Model: Content-based filtering using cosine similarity
 
 Libraries: Python, Pandas, NumPy, Scikit-learn, Requests
 
-🌐 Deployment-
+**🌐 Deployment-**
 
 Deployed on Streamlit Community Cloud
  🚀
@@ -44,4 +44,4 @@ Add API_KEY in Streamlit → App Settings → Secrets.
 
 Deploy from the repo.
 
-👉 Live Demo:
+👉 Live Demo: https://ankitagupta04-movie-recommender-system-app-5fvkhn.streamlit.app
