@@ -16,3 +16,6 @@ venv/
 # OS/system files
 .DS_Store
 Thumbs.db
+
+# Data & N/b
+data/
